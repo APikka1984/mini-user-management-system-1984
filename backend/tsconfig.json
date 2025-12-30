@@ -1,10 +1,18 @@
 {
   "compilerOptions": {
+    "target": "ES2020",
     "module": "commonjs",
     "moduleResolution": "node",
-    "verbatimModuleSyntax": false,
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "strict": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
-    // keep the rest (target, outDir, rootDir, etc.)
-  }
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "sourceMap": true
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules", "./frontend", ".next"]
 }
