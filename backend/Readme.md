@@ -138,13 +138,14 @@ so the client can call the API correctly.
 ![Login Page](./frontend/screenshorts/login.png)
 
 - **Signup Page**  
-![Signup Page](./frontend/screenshorts/signup.png)
+![Signup Page](./frontend/screenshorts/signup.png) 
 
 - **Profile Page**  
 ![Profile Page](./frontend/screenshorts/profile.png)
 
 - **Admin Dashboard**  
 ![Admin Dashboard](./frontend/screenshorts/dashboard.png)
+
 
 
  
