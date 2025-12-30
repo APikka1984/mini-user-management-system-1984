@@ -28,3 +28,5 @@ mongoose
 
 app.use("/api/auth", authRoutes);
 app.use("/api", userRoutes);
+
+export default app;
