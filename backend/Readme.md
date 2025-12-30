@@ -135,16 +135,16 @@ so the client can call the API correctly.
  
 
 - **Login Page**  
-![Login Page](./screenshorts/login.png)
+![Login Page](./frontend/screenshorts/login.png)
 
 - **Signup Page**  
-![Signup Page](./screenshorts/signup.png)
+![Signup Page](./frontend/screenshorts/signup.png)
 
 - **Profile Page**  
-![Profile Page](./screenshorts/profile.png)
+![Profile Page](./frontend/screenshorts/profile.png)
 
 - **Admin Dashboard**  
-![Admin Dashboard](./screenshorts/dashboard.png)
+![Admin Dashboard](./frontend/screenshorts/dashboard.png)
 
  
 
