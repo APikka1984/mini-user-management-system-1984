@@ -18,4 +18,3 @@ pnpm-lock.yaml
 # Build
 dist
 build
-.next
